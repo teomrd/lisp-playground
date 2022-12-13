@@ -1,4 +1,4 @@
-# List Playground
+# Lisp Playground
 
 ## Learning resources
 
